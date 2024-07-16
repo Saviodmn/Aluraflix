@@ -1,0 +1,35 @@
+.videoCardContainer{
+    width: 100%;
+    margin-bottom: 60px;
+    display: flex;
+    gap: 20px;
+    overflow-y: auto;
+    overflow-x: auto;
+    scrollbar-width:thin;
+    scrollbar-color: #2271D1 #2271D12B;
+
+}
+
+.tituloCategoria{
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: center;
+    border: transparent;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 15px;
+    width: 350px
+}
+
+.videoCardContainer::-webkit-scrollbar{
+    height: 10px;
+}
+.videoCardContainer::-webkit-scrollbar{
+    background-color: #2271D12B;
+    border: 5px;
+    border-radius: 20px;
+}
+.videoCardContainer::-webkit-scrollbar-thumb{
+    background-color: #2271D1;
+    border-radius: 20px;
+}

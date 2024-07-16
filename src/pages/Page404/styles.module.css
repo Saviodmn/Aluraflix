@@ -1,0 +1,29 @@
+.container_404{
+    height: 83vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo2{
+    font-size: 50px;
+    padding-top: 2rem;
+    color: #fff;
+}
+
+.textos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.texto_grande, .texto_azul{
+    font-size: 300px;
+    color: #2271D1;
+    font-weight: bold;
+}
+
+.texto_azul{
+    font-size: 50px;
+}

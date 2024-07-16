@@ -1,0 +1,53 @@
+{
+  "videos": [
+    {
+      "id": "f2ca",
+      "titulo": "mylon de regatinha",
+      "categoria": "Mobile",
+      "capa": "https://i.ytimg.com/vi/vweH6YI3QiU/hq720.jpg",
+      "link": "https://www.youtube.com/watch?v=bD3wGDGA1fQ",
+      "descricao": "JavaScript should be used to display the <dialog> element. Use the .showModal() method to display a modal dialog and the"
+    },
+    {
+      "titulo": "Por isso eu odeio o Rugal!",
+      "categoria": "Back-End",
+      "capa": "https://i.ytimg.com/vi/NknVgH6b75I/hq720.jpg",
+      "link": "https://www.youtube.com/watch?v=NknVgH6b75I",
+      "descricao": "raposinha",
+      "id": "8f8b"
+    },
+    {
+      "id": "944e",
+      "titulo": "SONIC",
+      "categoria": "Back-End",
+      "capa": "https://yt3.googleusercontent.com/991n83dlW7VM4yB0Ojt5xKDE4q7Okqou-INfsD074yuPqgwKtNmluXqZpFdIOW8tPnuwrY77lw=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://www.youtube.com",
+      "descricao": "SONICCCCC"
+    },
+    {
+      "titulo": "MANO REAGE: rotina do lucas montano do canal lucas montano",
+      "categoria": "Front-End",
+      "capa": "https://i.ytimg.com/vi/VPVEwE3wia4/hq720.jpg",
+      "link": "https://www.youtube.com/watch?v=O9qJvwLKUNc",
+      "descricao": "teste",
+      "id": "b3a5"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "category": "Front-End",
+      "color": "#6bd1ff"
+    },
+    {
+      "id": "2",
+      "category": "Back-End",
+      "color": "#00C86F"
+    },
+    {
+      "id": "3",
+      "category": "Mobile",
+      "color": "#FFBA05"
+    }
+  ]
+}
